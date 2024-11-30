@@ -1,0 +1,23 @@
+/* styles.css */
+ul {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove default padding */
+  margin: 0; /* Remove default margin */
+}
+
+li {
+  margin: 10px 0; /* Add some spacing between list items */
+}
+
+a {
+  text-decoration: none; /* Remove underline from links */
+  color: blue; /* Default font color */
+}
+
+a:hover {
+  color: red; /* Font color when hovered over */
+}
+
+a:active {
+  color: green; /* Font color for active links */
+}
