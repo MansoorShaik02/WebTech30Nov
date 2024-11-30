@@ -1,23 +1,22 @@
-/* styles.css */
 ul {
-  list-style-type: none; /* Remove bullets */
-  padding: 0; /* Remove default padding */
-  margin: 0; /* Remove default margin */
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
 }
 
 li {
-  margin: 10px 0; /* Add some spacing between list items */
+  margin: 10px 0;
 }
 
 a {
-  text-decoration: none; /* Remove underline from links */
-  color: blue; /* Default font color */
+  text-decoration: none;
+  color: blue;
 }
 
 a:hover {
-  color: red; /* Font color when hovered over */
+  color: red;
 }
 
 a:active {
-  color: green; /* Font color for active links */
+  color: green;
 }

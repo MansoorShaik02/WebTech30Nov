@@ -1,16 +1,15 @@
-/* styles.css */
 body {
-  font-family: Arial, sans-serif; /* Default font for the entire body */
-  margin: 20px; /* Add some margin around the body */
+  font-family: Arial, sans-serif;
+  margin: 20px;
 }
 
 h1 {
-  font-family: Arial, sans-serif; /* Set the font of the title to Arial */
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add text shadow to the title */
+  font-family: Arial, sans-serif;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 p {
-  font-size: 1.2rem; /* Set the font size of the paragraph */
-  line-height: 1.6; /* Set the line height of the paragraph */
-  text-align: justify; /* Set the text alignment to justify */
+  font-size: 1.2rem;
+  line-height: 1.6;
+  text-align: justify;
 }
